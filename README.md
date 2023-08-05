@@ -6,11 +6,15 @@ Blockchain & Game Developer
 
 This is the long description that I'll update tomorrow!
 
-*   🌍  I'm based in Istanbul but can relocate!
-*   ✉️  You can contact me at [b.ozenbirkan@gmail.com](mailto:b.ozenbirkan@gmail.com)
-*   🚀  I'm currently working on [Zk Chickens](http://www.zkchickens.xyz/)
-*   🤝  I'm open to collaborating on Blockchain || game projects!
-*   ⚡  I have some interesting ideas that I build. You can find some of them in my repositories!### Skills 
+* 🌍  I'm based in Istanbul but can relocate!
+* ✉️  You can contact me at [b.ozenbirkan@gmail.com](mailto:b.ozenbirkan@gmail.com)
+* 🚀  I'm currently working on [Zk Chickens](http://www.zkchickens.xyz/)
+* 🤝  I'm open to collaborating on Blockchain || game projects!
+* ⚡  I have some interesting ideas that I build. You can find some of them in my repositories!
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -26,30 +30,32 @@ This is the long description that I'll update tomorrow!
 <a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/bora.beyi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/boraozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/b-ozenbirkan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@b.ozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/13290589/bora-Özenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/bora_ozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/boraozenbirkan"><img src="https://github-readme-stats.vercel.app/api?username=boraozenbirkan&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="boraozenbirkan's GitHub stats" /></a><a
-                      href="http://www.github.com/boraozenbirkan"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=boraozenbirkan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/boraozenbirkan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraozenbirkan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/bora.beyi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/boraozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/b-ozenbirkan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@b.ozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13290589/bora-Özenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bora_ozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<h1 align = "center"> My GitHub Stats </h1>
+<p  align="center">
+	<a href="http://www.github.com/boraozenbirkan"><img src="https://github-readme-stats.vercel.app/api?username=boraozenbirkan&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="boraozenbirkan's GitHub stats" /></a>
+</p>
+<div style="text-align: center;">
+<details>
+        <summary>Details on stats</summary>
+        <p  align="center">
+<a href="http://www.github.com/boraozenbirkan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boraozenbirkan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+        </p>
+        <p  align="center">
+                <a href="https://github.com/boraozenbirkan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraozenbirkan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+        </p>
+</details>
+</div>
+<br>
+<br>
+<br>
 <p  align="center">
 	<img src="https://media.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif" alt="Your GIF" width="400" height="200">
 </p>
 <p  align="center">
-	**New day, new bugs!**
+	<strong>New day, new bugs!</strong>
 </p>
