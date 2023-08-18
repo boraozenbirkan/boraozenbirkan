@@ -20,7 +20,7 @@ Over the past three years, I've crafted a diverse portfolio of applications, eac
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="/boraozenbirkan/Files/Unity_Logo.png" width="36" height="36" alt="C#" /></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="/Files/Unity_Logo.png" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
@@ -43,36 +43,36 @@ Over the past three years, I've crafted a diverse portfolio of applications, eac
 (Click the project to learn more about it and even check out the codes!)
 <table>
     <tr>
-        <td><a href="https://github.com/Casual-Zk"><img src="/boraozenbirkan/Files/Card_ZkChickens.png" alt="Zk Chickens" width = "500"></td>
-        <td><a href="https://github.com/boraozenbirkan/Metalife-Docs/tree/main"><img src="/boraozenbirkan/Files/Card_Metalife.png" alt="Metalife" width = "500"></td>
+        <td><a href="https://github.com/Casual-Zk"><img src="/Files/Card_ZkChickens.png" alt="Zk Chickens" width = "500"></td>
+        <td><a href="https://github.com/boraozenbirkan/Metalife-Docs/tree/main"><img src="/Files/Card_Metalife.png" alt="Metalife" width = "500"></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/FukcingOrganization"><img src="/boraozenbirkan/Files/Card_StickFight.png" alt="Stick Fight" width = "500"></td>
-        <td><a href="https://github.com/Language-Update"><img src="/boraozenbirkan/Files/Card_JapaneseWarrior.png" alt="Japanese Warrior" width = "500"></td>
+        <td><a href="https://github.com/FukcingOrganization"><img src="/Files/Card_StickFight.png" alt="Stick Fight" width = "500"></td>
+        <td><a href="https://github.com/Language-Update"><img src="/Files/Card_JapaneseWarrior.png" alt="Japanese Warrior" width = "500"></td>
     </tr>
 <tr>
-        <td><a href="https://github.com/boraozenbirkan/DLT-Racer-Archive/tree/main"><img src="/boraozenbirkan/Files/Card_DLTR.png" alt="DLT Racer" width = "500"></td>
-        <td><a href="https://github.com/boraozenbirkan/GD50-Assignment-Repo/tree/version_1/Best%20Time%20to%20Meet"><img src="/boraozenbirkan/Files/Card_BTTM.png" alt="Best Time To Meet" width = "500"></td>
+        <td><a href="https://github.com/boraozenbirkan/DLT-Racer-Archive/tree/main"><img src="/Files/Card_DLTR.png" alt="DLT Racer" width = "500"></td>
+        <td><a href="https://github.com/boraozenbirkan/GD50-Assignment-Repo/tree/version_1/Best%20Time%20to%20Meet"><img src="/Files/Card_BTTM.png" alt="Best Time To Meet" width = "500"></td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><a href="https://github.com/boraozenbirkan/ARB-RESCUE/tree/main"><img src="/boraozenbirkan/Files/Card_ArbBot.png" alt="Arbitrum Claim Bot" width = "333"></td>
-        <td><a href="https://github.com/boraozenbirkan/MazePunks"><img src="/boraozenbirkan/Files/Card_MazePunks.png" alt="Maze Punks" width = "333"></td>
-        <td><a href="https://www.youtube.com/watch?v=3Zn7ICF9yNQ"><img src="/boraozenbirkan/Files/Card_RestaurantApp.png" alt="Restaurant Customer App" width = "333"></td>
+        <td><a href="https://github.com/boraozenbirkan/ARB-RESCUE/tree/main"><img src="/Files/Card_ArbBot.png" alt="Arbitrum Claim Bot" width = "333"></td>
+        <td><a href="https://github.com/boraozenbirkan/MazePunks"><img src="/Files/Card_MazePunks.png" alt="Maze Punks" width = "333"></td>
+        <td><a href="https://www.youtube.com/watch?v=3Zn7ICF9yNQ"><img src="/Files/Card_RestaurantApp.png" alt="Restaurant Customer App" width = "333"></td>
     </tr>
 </table>
 
 <br>
 <details>
         <summary><strong>➡️My Timeline of Education, Project and Experience⬅️</strong></summary>
-        (Click to timeline to see in detail)
+        (Click on the timeline to see in detail)
         <br><br> <strong>2009-2018</strong>
-        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/boraozenbirkan/Files/Bora_Timeline_2009-2018.png" alt="Bora Timeline" width = "1000"></td>
+        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/Files/Bora_Timeline_2009-2018.png" alt="Bora Timeline" width = "1000"></td>
         <br> <strong>2018-2022</strong>
-        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/boraozenbirkan/Files/Bora_Timeline_2018-2022.png" alt="Bora Timeline" width = "1000"></td>
+        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/Files/Bora_Timeline_2018-2022.png" alt="Bora Timeline" width = "1000"></td>
         <br> <strong>2022-2023</strong>
-        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/boraozenbirkan/Files/Bora_Timeline_2022-2023.png" alt="Bora Timeline" width = "1000"></td>
+        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/Files/Bora_Timeline_2022-2023.png" alt="Bora Timeline" width = "1000"></td>
 </details>
 <br>
 <br>
