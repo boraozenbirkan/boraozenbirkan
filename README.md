@@ -1,11 +1,13 @@
 Blockchain & Game Developer
 ---------------------------
 
-Hello there! I'm **Bora Ozenbirkan**, and I'm deeply passionate about **game development and blockchain technology.**
+Hello there! I'm **Bora Ozenbirkan**, deeply passionate about **game development and blockchain technology.**
 
-Three years ago, I embarked on an entrepreneurial adventure with a clear goal: **to create Language Learning apps.** Along this exciting journey, I pursued a range of educational opportunities, from serious courses like **Harvard University's CS50 and GD50**, to mastering **Unity 2D/3D** through GameDev.Tv
+I started coding with Assembly in my Technical High School and build a couple of robot projects with C using PIC 16F877A microcontrollers. During my university education, I build some educational projects with Java and build a 3D printer alongside a couple of Arduino projects.
 
-Over the past three years, I've crafted a diverse portfolio of applications, each representing a **unique and innovative creation.** These experiences have been nothing short of amazing, and they've fueled my determination to create even more exceptional products. Now, I'm eager to channel my **skills and knowledge** into the development of cutting-edge solutions that will truly make a difference.
+Three years ago, I dropped out of university and embarked on an entrepreneurial adventure with a clear goal: **to create Language Learning apps.** Along this exciting journey, I pursued a range of educational opportunities, from serious courses like **Harvard University's CS50 and GD50** to mastering **Unity 2D/3D** through GameDev.Tv
+
+Over the past three years, I've crafted a diverse portfolio of applications, each representing a **unique and innovative creation.** These experiences have been nothing short of amazing, and they've fueled my determination to create even more exceptional products. Now, I'm eager to channel my **skills and knowledge** into the development of cutting-edge solutions that will genuinely make a difference.
 
 **Let's create something people adore!**
 
@@ -37,7 +39,7 @@ Over the past three years, I've crafted a diverse portfolio of applications, eac
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/bora.beyi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/boraozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/b-ozenbirkan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@b.ozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13290589/bora-Özenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bora_ozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/b-ozenbirkan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@b.ozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bora_ozenbirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## My Projects
 (Click the project to learn more about it and even check out the codes!)
