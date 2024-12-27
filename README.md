@@ -66,18 +66,6 @@ Over the past three years, I've crafted a diverse portfolio of applications, eac
 </table>
 
 <br>
-<details>
-        <summary><strong>➡️My Timeline of Education, Project and Experience⬅️</strong></summary>
-        (Click on the timeline to see in detail)
-        <br><br> <strong>2009-2018</strong>
-        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/Files/Bora_Timeline_2009-2018.png" alt="Bora Timeline" width = "1000"></td>
-        <br> <strong>2018-2022</strong>
-        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/Files/Bora_Timeline_2018-2022.png" alt="Bora Timeline" width = "1000"></td>
-        <br> <strong>2022-2023</strong>
-        <a href="https://docs.google.com/spreadsheets/d/14SXB2KoGV29EEfNPQR-RZlBoyLWdpHzfzZgtFk-kD7U/edit?usp=sharing"><img src="/Files/Bora_Timeline_2022-2023.png" alt="Bora Timeline" width = "1000"></td>
-</details>
-<br>
-<br>
 <h1 align = "center"> GitHub Stats </h1>
 <p  align="center">
 	<a href="http://www.github.com/boraozenbirkan"><img src="https://github-readme-stats.vercel.app/api?username=boraozenbirkan&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="boraozenbirkan's GitHub stats" /></a>
